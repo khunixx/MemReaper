@@ -13,8 +13,7 @@ This tool is designed for **cybersecurity professionals, forensic analysts, and 
 3. [Prerequisites](#prerequisites)  
 4. [Tested On](#tested-on)  
 5. [Usage](#usage)  
-6. [Script Workflow](#script-workflow)  
-7. [Disclaimer](#disclaimer)  
+6. [Script Workflow](#script-workflow)   
 
 ---
 
