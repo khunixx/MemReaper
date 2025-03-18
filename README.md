@@ -92,6 +92,4 @@ This script checks for and installs the following tools if they are not already 
 
 ---
 
-## Disclaimer  
-
-This tool is intended for **legal digital forensics and cybersecurity research only**. Unauthorized use against systems without explicit permission is strictly prohibited.  
+ 
