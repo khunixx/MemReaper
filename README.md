@@ -13,7 +13,6 @@ MemReaper is a Bash-based memory analysis tool designed for forensic investigati
 - [Usage](#usage)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
@@ -130,9 +129,5 @@ MemReaper/
 └── output/                   # Directory for extracted results
 ```
 
----
 
-## License
-
-This project is licensed under the **MIT License**.
 
